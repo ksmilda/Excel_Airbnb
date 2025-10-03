@@ -7,7 +7,7 @@ The steps for data cleaning:
 3.	Delete blank column "neighbourhood_group".
 4.	Freeze header row.
 5.	Find duplicate row by "id" because id is unique value (there is not any duplicate row)
-6.	Count entries/row by "=COUNT(A)"(?)
+6.	Count entries/row by "=COUNT(A:A)".
 7.	Find blank/null cell by "=COUNTBLANK(B2:B10999)", applied to every column.
 8.	Found there are blank cell at columns "price", "last_review", "reviews_per_month", and "license".
 9.	The blank cell at "price" column are going to filled with average price between the same "neighbourhood" (using pivot table).
