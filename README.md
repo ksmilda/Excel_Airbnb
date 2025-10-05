@@ -1,5 +1,6 @@
 # Excel_Airbnb
 In this project, I'm doing data cleaning, data processing, data analysing, and data visualization on Microsoft Excel using real life data from [listed Airbnb on Naples, Italy](https://insideairbnb.com/). This dataset containt 10699 entries and several columns. Take a look at dataset [here](/airbnb_naples1.xlsx).
+<img width="1913" height="584" alt="image" src="https://github.com/user-attachments/assets/becf97c3-a3e4-4731-b574-f4a557b768c9" />
 
 
 ## Data Cleaning 
@@ -17,6 +18,7 @@ The steps for data cleaning:
 11. The blank cell at "reviews\_per\_month" column are filled with "0";
 12. Set column type as it supposed to (number, currency, text, date, etc).
 
+<img width="1919" height="533" alt="image" src="https://github.com/user-attachments/assets/00af1755-46dd-4faa-bf04-29beee97d9d4" />
 
 
 ## Data Processing
@@ -28,6 +30,8 @@ The steps for data cleaning:
 
 ## Data Analysis 
 ## Data Visualization
+<img width="1234" height="678" alt="image" src="https://github.com/user-attachments/assets/d31ca386-edd7-4591-98e2-b7ac47a2d45d" />
+
 
 
 ## Insight
