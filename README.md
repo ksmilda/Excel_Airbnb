@@ -1,5 +1,5 @@
 # Excel_Airbnb
-In this project, I'm doing data cleaning, data processing, data analysing, and data visualization on Microsoft Excel using real life data from (listed Airbnb on Naples, Italy)[https://insideairbnb.com/]. This dataset containt 10699 entries and several columns. Take a look at dataset (here)[].
+In this project, I'm doing data cleaning, data processing, data analysing, and data visualization on Microsoft Excel using real life data from [listed Airbnb on Naples, Italy](https://insideairbnb.com/). This dataset containt 10699 entries and several columns. Take a look at dataset [here][].
 
 
 ## Data Cleaning 
