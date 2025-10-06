@@ -1,5 +1,8 @@
 # Excel_Airbnb
-In this project, I'm doing data cleaning, data processing, data analysing, and data visualization on Microsoft Excel using real life data from [listed Airbnb on Naples, Italy](https://insideairbnb.com/). This dataset containt 10699 entries and several columns. Take a look at dataset [here](/airbnb_naples1.xlsx).
+
+In this project, I'm doing data cleaning, data processing, data analysing, and data visualization on Microsoft Excel using real life data from [Airbnb listings on Naples, Italy](https://insideairbnb.com/) to explore patterns in pricing, availability, and host licensing status. This dataset containt 10699 entries and several columns. Take a look at dataset [here](/airbnb_naples1.xlsx).
+
+
 <img width="1913" height="584" alt="image" src="https://github.com/user-attachments/assets/becf97c3-a3e4-4731-b574-f4a557b768c9" />
 
 
