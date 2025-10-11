@@ -40,7 +40,7 @@ Take a look at the interactive dashboard [here](https://1drv.ms/x/c/b693fc098921
 This dashboard highlights a market characterized by budget-friendly listings, strong licensing compliance, and a dominance of private accommodations.
 Neighborhoods like Chiaiano and San Giuseppe stand out for their premium pricing, while San Lorenzo and San Ferdinando lead in total listing volume — key insights for investors or policy planners analyzing Airbnb activity distribution.
 
-<img width="1234" height="678" alt="image" src="https://github.com/user-attachments/assets/d31ca386-edd7-4591-98e2-b7ac47a2d45d" />
+<img width="1115" height="611" alt="image" src="https://github.com/user-attachments/assets/9a7c78d2-95a6-44f7-8d93-62c1294d9aac" />
 
 
 
